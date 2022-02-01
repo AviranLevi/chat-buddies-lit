@@ -1,0 +1,16 @@
+{
+  "name": "chat-buddies-lit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "lit": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.2",
+    "vite": "^2.6.2"
+  }
+}
